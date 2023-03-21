@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
+#EXTINF:-1 tvg-logo="" group-title="Local", 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png" group-title="Local", 5R Tv
@@ -26,7 +26,7 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", américa tevé
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1400852741.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Local", América Tv
+#EXTINF:-1 tvg-logo="" group-title="Local", América Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
@@ -167,7 +167,7 @@ https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/307_Canal_6_Entre_Rios.png" group-title="Local", Canal 6 Crespo
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178525949756952576/jffffNQn.jpg" group-title="Local", Canal 6 Mar del Plata
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 6 Mar del Plata
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/261_Canal_6_Moreno.png" group-title="Local", Canal 6 Moreno
@@ -179,10 +179,10 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/264_Canal_7_Jujuy.png" group-title="Local", Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Local", Canal 7 Santiago del Estero
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 7 Santiago del Estero
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="Local", Canal 8 Mar del Plata
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzoPGuSonIau7hA6u2pL4PRlWIKuTzxw3JThMZooQ=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 8 Posadas
@@ -209,7 +209,7 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 Río Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Local", Canal 9 Televida
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 9 Televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="General", Canal 10 Cancún
@@ -218,7 +218,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="Local", Canal 10 Córdoba
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Local", Canal 10 de Junín
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 10 Junín
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 10 Mar del Plata
@@ -254,7 +254,7 @@ https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/268_Canal_12_Madryn_TV.png" group-title="Local", Canal 12 Madryn
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Local", Canal 12 Misiones
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 12 Misiones
 https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-12-telecanal-republica-dominicana-en-vivo.jpg" group-title="General", Canal 12 Rep. Dom.
