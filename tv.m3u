@@ -15,6 +15,9 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
+https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General", américa tevé
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1400852741.m3u8
 
@@ -787,7 +790,7 @@ https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="Deportes", TyC Sports
-http://45.232.177.17:8000/play/a02g
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
