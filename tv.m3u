@@ -144,6 +144,9 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/778_Canal_5_Pico_Truncado.jpg" group-title="Local", Canal 5 Pico Truncado
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 5 Pueblo Alcorta
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="Local", Canal 5 Tandil
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
@@ -394,7 +397,7 @@ https://panel.dattalive.com/8078/8078/chunklist_w458907901.m3u8
 https://cnnsanjuan.com:9999/live/delsurtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GUjaFmE.png" group-title="Deportes", DT Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
@@ -433,7 +436,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Ex Tv Los Alámos
-https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w2079695085.m3u8
+https://vdochile.com:3774/live/cnrhiawklive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
@@ -696,9 +699,6 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/828_Somos_Del_Este_TV.jpg" group-title="General", Somos Del Este Tv
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Somos Bell Ville
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/somosbellvilletv
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
@@ -774,9 +774,6 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", Tv Dos
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
@@ -798,14 +795,8 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", UN Web Tv
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.unocontraunoweb.com/wp-content/uploads/2018/05/UCU-RETINA-01-01-300x99.png" group-title="Deportes", Uno Contra Uno Tv
-https://stmvideo1.livecastv.com/ucuweb1/ucuweb1/chunklist_w112600636.m3u8
-
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Musicales", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="Local", Valle Tv
-https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="General", Vallevisión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
@@ -827,6 +818,3 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/277_Canal_XFN.png" group-title="Local", XFN 41
 https://streamconex.com:1936/canalxfn/canalxfn/chunklist_w2111082998.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Zonda Tv
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
