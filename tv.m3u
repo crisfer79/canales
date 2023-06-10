@@ -414,7 +414,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", CnAr Noticias
+#EXTINF:-1 tvg-logo="" group-title="General", CnAr Noticias
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Comodoro Rivadavia Centro
