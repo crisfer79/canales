@@ -375,6 +375,9 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", CDN Deportes
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1686435959&e=1686436559&h=6c0686bf34ecfa920162dd8fc00c3ef9
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv 3 Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
@@ -411,6 +414,9 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Claro Sports
+https://dai.google.com/linear/hls/pa/event/NHe1sutaROeLlaDlLvF4-g/stream/fa3b5ca3-ec51-45ae-9733-b55f0645d634:SCL/variant/7f7fd3caddc6dc90dc3f62fe3a497d00/bandwidth/1342902.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
@@ -435,7 +441,10 @@ https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI
+#EXTINF:-1 tvg-logo="" group-title="General", CubaVision Internacional
+http://190.122.96.187:8888/http/010
+
+#EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Puerto Iguazú
 https://panel.dattalive.com/8078/8078/chunklist_w458907901.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="Local", Del Sur Tv San Juan
@@ -784,6 +793,9 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Sport Visión Canal 35
+https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 
@@ -796,8 +808,14 @@ i
 #EXTINF:-1 tvg-logo="" group-title="Local", TEC Tv
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Tele 8 Mercedes Uruguay
+http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
 https://videohd.live:19360/8020/8020.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Teledeporte
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="Local", Teledigital Pascanas
 https://videohd.live:19360/8014/8014.m3u8
