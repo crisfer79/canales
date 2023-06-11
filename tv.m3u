@@ -814,23 +814,23 @@ http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
 https://videohd.live:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Teledeporte
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="Local", Teledigital Pascanas
-https://videohd.live:19360/8014/8014.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="Local", Telecinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/20708437_111250822872341_7486705936501501459_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeE5cupq3kMwbbWlvbYKKEahLA0gqcInhc4sDSCpwieFzkkpFkD-7UiGuFCIAKjJwzo&_nc_ohc=83SaW40wm4YAX-NLLFB&_nc_oc=AQntwE4tyn7QX3HJIwQ3ETUGiqwWO80Pjv_tVVGfy4TAMZUjwBlCugE5QNPhIog4nWxzddw_zAIuRJQdPet5LD5j&_nc_ht=scontent.fepa11-1.fna&oh=184edb034c7d9a4d2d2ed2a8c0d884f4&oe=60CA3571" group-title="Local", Telecreativa
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Teledeporte
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General", Telediario Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="Local", Teledigital Pascanas
+https://videohd.live:19360/8014/8014.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
@@ -840,6 +840,9 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/292_Telemax.png" group-title="Local", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", Telemetro
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Local", TeleNord
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
