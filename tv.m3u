@@ -57,6 +57,9 @@ https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", Best Tv
 https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Bolivia Tv 7.2 Deportes
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Botavara Pinamar
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
 
@@ -204,11 +207,11 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", Canal 8 Punta Cana
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 San Juan
+https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 Valle de Uco
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal 9 C. Rivadavia
-https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 9 La Rioja
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
@@ -221,6 +224,9 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 Río Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 9 Santa Cruz
+https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Local", Canal 9 Televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -369,6 +375,9 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal VIVO
+https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/chunklist_w188199027.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv 3 Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
@@ -407,6 +416,9 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", CnAr Deportes
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", CnAr Noticias
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
@@ -522,6 +534,9 @@ https://videohd.live:19360/8078/8078.m3u8
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="Local", Infomedia
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="Local", Itel Chajarí
 http://66.128.32.245/output/iteltv/track_0_512/playlist.m3u8
 
@@ -533,6 +548,9 @@ https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", La Nación+
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Lapacho Tv
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lasplayasdeostende.com.ar/images/balnearios/LaRambla/logo.png" group-title="Cámaras", La Rambla Ostende
 https://wowza.telpin.com.ar:1935/camara-rambla/smil:camara-rambla.smil/chunklist_w951919186_b1344100_sleng.m3u8
@@ -738,6 +756,9 @@ https://srv.freewaves.live/hls/mogotes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Quba MDQ
 https://video2.estadodelmar.com.ar/mobile/quba/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Radio Yguazú Tv
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png" group-title="Musicales", Radionorba
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
