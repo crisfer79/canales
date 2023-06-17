@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="Premium", #V
+http://91.126.182.211:9981/stream/channelid/1048254491?profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="Premium", #Vamos
+http://91.126.182.211:9981/stream/channelid/1399294887?profile=pass
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
@@ -486,16 +492,16 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 group-title="Deportes", ESPN
+#EXTINF:-1 group-title="Premium", ESPN
 http://190.110.110.18:9980/play/a046/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", ESPN 2
+#EXTINF:-1 group-title="Premium", ESPN 2
 http://190.110.110.18:9980/play/a0hu/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", ESPN 3
+#EXTINF:-1 group-title="Premium", ESPN 3
 http://190.110.110.18:9980/play/a06j/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", ESPN 4
+#EXTINF:-1 group-title="Premium", ESPN 4
 http://190.110.110.18:9980/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ETB Deportes
@@ -503,6 +509,12 @@ https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Premium", Eurosport
+http://91.126.182.211:9981/stream/channelid/354032384?profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="Premium", Eurosport 2
+http://91.126.182.211:9981/stream/channelid/1383612804?profile=pass
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -888,6 +900,9 @@ https://srv.freewaves.live/hls/terrazas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="Local", Teve Ocho Digital
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium", Tigo Sports
+http://186.101.207.117:7654/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.feze9-1.fna.fbcdn.net/v/t1.6435-9/82414356_2534871536769708_6314512410942111744_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=7pWMrQMb3B8AX94vJ0U&_nc_ht=scontent.feze9-1.fna&oh=7709f2714b45a9be73cab9b1ce472b86&oe=61BA18ED" group-title="Local", TIV Tres Isletas
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
