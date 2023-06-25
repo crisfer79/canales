@@ -417,6 +417,9 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Claro Sports
+http://200.59.188.3:8000/play/a02b
+glastonbury 93
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
@@ -493,16 +496,16 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN
-http://187.102.208.155:8000/play/a05x/index.m3u8
+http://201.219.246.114:7000/play/a01g/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 2
-http://187.102.208.155:8000/play/a09g/index.m3u8
+http://201.219.246.114:7000/play/a01f/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 3
-http://187.102.208.155:8000/play/a058/index.m3u8
+http://201.219.246.114:7000/play/a02q/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 4
-http://187.102.208.155:8000/play/a05r/index.m3u8
+http://201.219.246.114:7000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ETB Deportes
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
@@ -829,6 +832,9 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
+#EXTINF:-1 group-title="Peliculas", Star Channel
+http://201.219.246.114:7000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 
@@ -948,7 +954,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="General", Vallevisión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/emblema_fichas_-_pn_nahuel_huapi.png" group-title="Cámaras", Varadero Nahuel Huapi
 https://bariloche.freewaves.live/hls/live.stream.m3u8
