@@ -823,6 +823,9 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="Cámaras", Sierra de la Ventana
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Sky Sports
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Solive Tv
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
@@ -831,6 +834,9 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Space
+http://181.78.105.146:2000/play/a04x/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas", Star Channel
 http://201.219.246.114:7000/play/a00b/index.m3u8
@@ -916,8 +922,14 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 group-title="Local", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+#EXTINF:-1 group-title="Peliculas", TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="Local", Tv Max
 https://panel.dattalive.com/8976/8976/playlist.m3u8
@@ -954,6 +966,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="General", Vallevisión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/emblema_fichas_-_pn_nahuel_huapi.png" group-title="Cámaras", Varadero Nahuel Huapi
 https://bariloche.freewaves.live/hls/live.stream.m3u8
