@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", AppleTv
-https://ecloud.twolive.sbs:8089/hls/4qqWP5JjE3iB/index.m3u8?st=thxliqTZI48OtlaoR_6Ftg&e=1689996176
-
 #EXTINF:-1 tvg-logo="" group-title="Premium", #V
 http://91.126.182.211:9981/stream/channelid/1048254491?profile=pass
 
@@ -420,6 +417,9 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
+#EXTINF:-1 group-title="Premium", Claro Sports
+http://45.65.137.206:8000/play/a0fl/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
@@ -462,6 +462,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Diputados Tv
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
+#EXTINF:-1 group-title="Premium", Directv Sports
+http://51.222.110.182:8000/play/a00g
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GUjaFmE.png" group-title="Deportes", DT Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
@@ -496,7 +499,7 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN
-http://201.219.246.114:7000/play/a01g/index.m3u8
+http://181.78.22.27:8098/play/a01d/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 2
 http://201.219.246.114:7000/play/a01f/index.m3u8
@@ -514,13 +517,16 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://91.126.182.211:9981/stream/channelid/354032384?profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", Eurosport 2
-http://91.126.182.211:9981/stream/channelid/1383612804?profile=pass
+http://95.99.120.112:8000/play/a05f
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Exprezion Tv
 https://vdochile.com:3774/live/cnrhiawklive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Extra Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@canal4extra
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 https://stream1.sersat.com/hls/garagetv.m3u8
