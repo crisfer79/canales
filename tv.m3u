@@ -33,12 +33,6 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentin sima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" group-title="General", ATV Per 
-https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="General", ATV+ Per 
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="C maras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
@@ -52,10 +46,10 @@ https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 https://srv.freewaves.live/hls/zanzibar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sports
-https://ca2.inka.net.pe/Best-sport-00000x111/index.m3u8
+https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Best Tv
-https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
+https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="C maras", Botavara Pinamar
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
@@ -130,7 +124,7 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/255_Canal_3_Pinamar.png" group-title="Local", Canal 3 Pinamar
-https://intelincloud01.com.ar/hls/cn3.m3u8
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Canal_3_trelew_logo.jpg" group-title="C maras", Canal 3 Trelew
 https://panel.dattalive.com/8034/8034/chunklist_w1867112020.m3u8
@@ -176,9 +170,6 @@ https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/307_Canal_6_Entre_Rios.png" group-title="Local", Canal 6 Crespo
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178525949756952576/jffffNQn.jpg" group-title="Local", Canal 6 Mar del Plata
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/261_Canal_6_Moreno.png" group-title="Local", Canal 6 Moreno
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
@@ -265,9 +256,9 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General",Canal 11 TuTv
-https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Canal 12 C rdoba
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 12 Córdoba
 https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/268_Canal_12_Madryn_TV.png" group-title="Local", Canal 12 Madryn
@@ -399,11 +390,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", City Sports
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local", Ciudad M gica Tv
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local", Ciudad Mágica Tv
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -438,9 +426,6 @@ https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", CubaVision Internacional
-http://190.122.96.187:8888/http/010
-
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Puerto Iguaz 
 https://panel.dattalive.com/8078/8078/chunklist_w458907901.m3u8
 
@@ -454,7 +439,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 group-title="Premium", Directv Sports
-http://51.222.110.182:8000/play/a00g
+http://181.177.255.253:8000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GUjaFmE.png" group-title="Deportes", DT Play
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
@@ -507,17 +492,8 @@ http://45.228.232.219:16000/play/a0me/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Eurosport
-http://91.126.182.211:9981/stream/channelid/354032384?profile=pass
-
-#EXTINF:-1 tvg-logo="" group-title="Premium", Eurosport 2
-http://95.99.120.112:8000/play/a05f
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", Exprezion Tv
-https://vdochile.com:3774/live/cnrhiawklive.m3u8
 
 #EXTINF:-1 group-title="C maras", Faro Querandí V.Gesell
 https://video.estadodelmar.com.ar/mobile/faroquerandi/index.m3u8
@@ -526,7 +502,7 @@ https://video.estadodelmar.com.ar/mobile/faroquerandi/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Local", GEN Tv Digital
-https://inliveserver.com:1936/14056/14056/chunklist_w1127544546.m3u8
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 group-title="C maras", Hijos del Mar Miramar
 https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
@@ -587,6 +563,9 @@ https://stream-linkyprojects.linky.com.co/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178525949756952576/jffffNQn.jpg" group-title="Local", Living Tv
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibe9iSi.png" group-title="Local", LTO Televisi n
 https://ltocatamarca.github.io/ltotv.m3u8
@@ -811,9 +790,6 @@ https://smcdn01.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3
 #EXTINF:-1 group-title="C maras", Santa Teresita
 https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", SEO Tv 5 Deportes
-https://live.seo.tv.bo/live/5SEO.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", SEO Tv 4 Pel culas
 https://live.seo.tv.bo/live/4SEO.m3u8
 
@@ -834,9 +810,6 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Star Channel
-http://201.219.246.114:7000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
@@ -870,9 +843,6 @@ https://videohd.live:19360/8014/8014.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejun n
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/195/738/png-transparent-telemadrid-community-of-madrid-logo-laotra-television-people-walking-television-text-logo-thumbnail.png" group-title="General", TeleMadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/292_Telemax.png" group-title="Local", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
