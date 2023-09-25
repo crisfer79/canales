@@ -475,16 +475,16 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN
-http://45.228.232.219:16000/play/a0n7/index.m3u8
+http://177.234.245.26:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 2
-http://45.228.232.219:16000/play/a0n8/index.m3u8
+http://177.234.245.26:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 3
-http://45.228.232.219:16000/play/a0l1/index.m3u8
+http://177.234.245.26:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN 4
-http://45.228.232.219:16000/play/a0o0/index.m3u8
+http://177.234.245.26:8000/play/a047/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN+
 http://45.228.232.219:16000/play/a0me/index.m3u8
