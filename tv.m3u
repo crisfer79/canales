@@ -42,8 +42,14 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", AVC Monte Caseros
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Azteca Tv Internacional
+https://stream.ads.ottera.tv/cl/231001ckcc54oji6simjr2gu10/1920x1080_4787200_4_f.m3u8
+
 #EXTINF:-1 group-title="C maras", Balneario Zanzibar V.Gesell
 https://srv.freewaves.live/hls/zanzibar/playlist.m3u8
+
+#EXTINF:-1 group-title="Local", Barricada Tv
+https://live-ak.vimeocdn.com/exp=1696128120~acl=%2F14866ad5-4458-458c-95d9-e48f1dce8c7e%2F%2A~hmac=e999c7f5101b7d06aefc6b6bd18dd2ed77fb2ff8c84ab9c9f6750fa0687817d5/14866ad5-4458-458c-95d9-e48f1dce8c7e/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sports
 https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
@@ -346,7 +352,10 @@ https://panel.dattalive.com/8138/8138/playlist.m3u8
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="Educativos", Canal Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal Inmobiliario Tv
+https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Local", Canal Provincial
 https://smcdn02.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
@@ -368,6 +377,9 @@ https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/chunklist_w188199027.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv 3 Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", CEOSCA Tv
+https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="General", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -488,6 +500,9 @@ http://177.234.245.26:8000/play/a047/index.m3u8
 
 #EXTINF:-1 group-title="Premium", ESPN+
 http://45.228.232.219:16000/play/a0me/index.m3u8
+
+#EXTINF:-1 group-title="C maras", Esquel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/marianonext
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -808,6 +823,9 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="C maras", Sierra de la Ventana
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="C maras", Ski La Hoya
+https://s62.ipcamlive.com/streams/3emrayp6vtupoyzel/stream.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Premium", Sky Sports
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
@@ -921,6 +939,9 @@ http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="Local", TVEO
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local",TVES
+https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
