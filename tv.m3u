@@ -132,6 +132,9 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uoOXu9qMcIM/YGRyMxi3tiI/AAAAAAABBEQ/eToP9x0xTwc0kMtGohFBGhZWmFwlRQJrACK8BGAsYHg/s512/2021-03-31.png" group-title="Local", Canal 4 Telecondor
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 4 Jujpuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/CANAL4.smil/.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 5 Entre Ríos
 https://panel.dattalive.com/8202/8202/playlist.m3u8
 
@@ -549,6 +552,9 @@ http://camlapinocha.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religiosos", Mar a Visi n
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Noticias", Martí Noticias
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", M xima Tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
@@ -903,6 +909,9 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Wapa Deportes
+https://live.field59.com/wapa/ngrp:wapa2_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisi n LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
