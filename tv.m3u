@@ -426,8 +426,14 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Diputados Tv
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GUjaFmE.png" group-title="Deportes", DT Play
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ingles", Drone Tv
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ingles", Dubái Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/dubaisports.stream.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ingles", Dubái Sports 2
+https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/dubaisportshd.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -452,6 +458,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", EPS Tv Canal 5
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ingles", EPT Sports
+https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
@@ -485,6 +494,9 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Peliculas", Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas", Golden Plus
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Peliculas", Golden Premier
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
@@ -527,6 +539,9 @@ http://66.128.32.245/output/iteltv/track_0_512/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2882012983/8457e2f8197df75838a2e346a8092a8a.jpeg" group-title="Cámaras", Jamming Quequ n
 https://jamming.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ingles", Joj Sports
+https://live.cdn.joj.sk/live/joj_sport.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -772,6 +787,9 @@ https://srv.freewaves.live/hls/madryn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
+#EXTINF:-1 group-title="Ingles", RTV Sports
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/.m3u8
+
 #EXTINF:-1 group-title="Local", San Luis +
 https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/playlist.m3u8
 
@@ -810,6 +828,9 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ingles", Sportnews
+https://amg01756-newsnet-sportsnewshigh-ono-2rbfq.amagi.tv/playlist/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
