@@ -15,11 +15,11 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Acequia Tv
-https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
-
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
 https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Varios", Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -36,8 +36,11 @@ https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", AZM Tv
 https://live.canalnueve.tv/index.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Balneario Zanzibar V.Gesell
-https://srv.freewaves.live/hls/zanzibar/playlist.m3u8
+#EXTINF:-1 group-title="Cámaras", Bahia Varese
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-mardelplatabahiavarese.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Balneario Reta T. Arroyos
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-tresarroyos-balnearioreta.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="General", Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
@@ -62,9 +65,6 @@ http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="Local", Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Cabo Corrientes
-https://video2.estadodelmar.com.ar/mobile/cabocorrientes/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Musicales", Cadena Elite Tv
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -357,11 +357,11 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/278_Chacra_TV.png" group-title="Local", Chacra Tv
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Chapadmalal H5
-https://video2.estadodelmar.com.ar/mobile/chapadmalal/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Chapadmalal H2
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-chapalmalalH2.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Chapadmalal H4
-https://srv.freewaves.live/hls/chapatrapa/playlist.m3u8
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-chapalmalalH4.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png" group-title="General", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -414,8 +414,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
-#EXTINF:-1 group-title="General", Cubavisión Internacional
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Cuesta del Viento S. Juan
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-san-rodeocuestadelviento.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Puerto Iguaz 
 https://panel.dattalive.com/8078/8078/chunklist_w458907901.m3u8
@@ -426,13 +426,13 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Diputados Tv
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ingles", Drone Tv
+#EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ingles", Dubái Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Varios", Dubái Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/dubaisports.stream.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ingles", Dubái Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Varios", Dubái Sports 2
 https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/dubaisportshd.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
@@ -445,7 +445,7 @@ https://streaming.reltid.com.ar/hls/pringles.m3u8
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Cámaras", El Molino San Isidro
-https://elmolino.freewaves.live/hls/live.stream.m3u8
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-sanisidroelmolino.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", El Nueve Tv
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
@@ -459,7 +459,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", EPS Tv Canal 5
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Ingles", EPT Sports
+#EXTINF:-1 tvg-logo="" group-title="Varios", EPT Sports
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
@@ -470,9 +470,6 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-
-#EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
-https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -519,14 +516,11 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="General", HOLA Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Honu Beach
-https://video2.estadodelmar.com.ar/mobile/honubeach/index.m3u8
-
 #EXTINF:-1 group-title="Cámaras", Hotel Guerrero MDQ
-https://video2.estadodelmar.com.ar/mobile/hguerrero/index.m3u8
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-mardelplata-muelledepescadores.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Hotel Las Rocas MDQ
-https://video.estadodelmar.com.ar/mobile/lasrocas/index.m3u8
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-mardelplata-playachica.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Imagen Regional Alejo Ledesma
 https://videohd.live:19360/8078/8078.m3u8
@@ -537,10 +531,7 @@ https://stream.arcast.tv:8443/infomedia/infomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="Local", Itel Chajar 
 http://66.128.32.245/output/iteltv/track_0_512/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2882012983/8457e2f8197df75838a2e346a8092a8a.jpeg" group-title="Cámaras", Jamming Quequ n
-https://jamming.freewaves.live/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Ingles", Joj Sports
+#EXTINF:-1 tvg-logo="" group-title="Varios", Joj Sports
 https://live.cdn.joj.sk/live/joj_sport.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Kanal D
@@ -549,17 +540,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki
 https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
 
+#EXTINF:-1 group-title="Cámaras", La Boca Mar Chiquita
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-marchiquitalaboca.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Cámaras", La Perla MDQ
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-mardelplata-laperla.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Las Brusquitas Miramar
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-lasbrusquitasmiramar.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Lapacho Tv
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lasplayasdeostende.com.ar/images/balnearios/LaRambla/logo.png" group-title="Cámaras", La Rambla Ostende
 https://wowza.telpin.com.ar:1935/camara-rambla/smil:camara-rambla.smil/chunklist_w951919186_b1344100_sleng.m3u8
-
-#EXTINF:-1 group-title="Cámaras", Lago Meliquina S.M. de los Andes
-https://srv.freewaves.live/hls/meliquina/playlist.m3u8
-
-#EXTINF:-1 group-title="Cámaras", Las Le as
-https://streamcasthd.com:1936/laslenas/laslenas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="General", LIM Tv
 https://stream-linkyprojects.linky.com.co/hls/limtv.m3u8
@@ -576,9 +570,6 @@ https://ltocatamarca.github.io/ltotv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Musicales", Malbec Play
 https://streamlov.alsolnet.com/malbecplay/live/chunklist_w1087145187.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Malibet Quilmes
-https://srv.freewaves.live/hls/malibet/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Mar de las Pampas
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
@@ -587,9 +578,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Noticias", Martí Noticias
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local", M xima Tv
-https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="Noticias", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -619,7 +607,7 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Monte Pasubio Quequén
-https://srv.freewaves.live/hls/montepasubio/playlist.m3u8
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-quequenmontepasubio.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/284_Multivision.png" group-title="Local", Multivisión
 https://panel.dattalive.com/8250/8250/tsplaylist.m3u8
@@ -690,15 +678,6 @@ https://video.estadodelmar.com.ar/mobile/claromeco/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="Infantiles", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Panor mica Constituci n MDQ
-https://srv.freewaves.live/hls/constitucion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwF-4_r2fGxcD5OS6ZwymuSYJ9h735bdxqqDpPo2GnPesVPzQW-ufDbuZGkw9p_JJ_Q&usqp=CAU" group-title="Cámaras", Panorámica Mar Chiquita
-https://mchpano.freewaves.live/hls/live.stream.m3u8
-
-#EXTINF:-1 group-title="Cámaras", Parador Rojo Monte Hermoso
-https://srv.freewaves.live/hls/yateclubmonte/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Pinamar Golf
 https://wowza.telpin.com.ar:1935/camara-golf/smil:camara-golf.smil/playlist.m3u8
 
@@ -714,9 +693,11 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Play Televisión
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
-
 #EXTINF:-1 group-title="Cámaras", Playa Cruz del Sur MDQ
 https://srv.freewaves.live/hls/redonda/playlist.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Playa del Norte V. Gesell
+https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-villagesellplayadelnorte.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Grande
 https://video2.estadodelmar.com.ar/mobile/playagrande/index.m3u8
@@ -742,12 +723,6 @@ https://mariano.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Playa Serena
 https://video2.estadodelmar.com.ar/mobile/serena/index.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Playa Varese Norte
-https://video2.estadodelmar.com.ar/mobile/varese/index.m3u8
-
-#EXTINF:-1 group-title="Cámaras", Playa Varese Sur
-https://video.estadodelmar.com.ar/mobile/varese2/index.m3u8
-
 #EXTINF:-1 group-title="Cámaras", Playas del Balcón MDQ
 https://srv.freewaves.live/hls/balcon/playlist.m3u8
 
@@ -762,9 +737,6 @@ https://srv.freewaves.live/hls/mogotes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Quaere Tv
 https://videostream.shockmedia.com.ar:19360/quaeretv/quaeretv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Quba MDQ
-https://video2.estadodelmar.com.ar/mobile/quba/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Radio Yguaz  Tv
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
@@ -781,13 +753,10 @@ https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w1042848012.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musicales", Retromusic Televisión
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Riviera Parador 2 Pto. Madryn
-https://srv.freewaves.live/hls/madryn/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-#EXTINF:-1 group-title="Ingles", RTV Sports
+#EXTINF:-1 group-title="Varios", RTV Sports
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/.m3u8
 
 #EXTINF:-1 group-title="Local", San Luis +
@@ -828,9 +797,6 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Ingles", Sportnews
-https://amg01756-newsnet-sportsnewshigh-ono-2rbfq.amagi.tv/playlist/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
@@ -933,9 +899,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="General", Vallevisión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.argentina.gob.ar/sites/default/files/emblema_fichas_-_pn_nahuel_huapi.png" group-title="Cámaras", Varadero Nahuel Huapi
-https://bariloche.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Ver Tv
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
