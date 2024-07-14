@@ -271,22 +271,22 @@ https://panel.dattalive.com:443/8068/8068/playlist.m3u8
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 La Costa
-https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
+https://streamconex.com:19360/lacosta/lacosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/272_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Mar del Plata
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Pu n
-https://streamconex.com:1936/puan/puan/playlist.m3u8
+https://streamconex.com:19360/puan/puan.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 San Juan
 https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Santa Clara del Mar
-https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Villa Maza
-https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
+https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus Mar a
 https://panel.dattalive.com/8138/8138/playlist.m3u8
