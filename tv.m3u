@@ -387,12 +387,6 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Varios", Dubái Sports 1
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/dubaisports.stream.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Varios", Dubái Sports 2
-https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/dubaisportshd.smil/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -597,9 +591,6 @@ https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (Plaza Banderas)
 https://nqnmunicam.ddns.net/camnqn/plazabanderas_720p/chunklist_w1710504320.m3u8
 
-#EXTINF:-1 t tvg-logo="" group-title="General", Next Tv
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Local", NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
@@ -609,7 +600,7 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 group-title="Local", Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", Omán Sports Tv
+#EXTINF:-1 group-title="Varios", Omán Sports Tv
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", OppoCam
@@ -686,9 +677,6 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png" group-title="Musicales", Radionorba
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", RCC Tv
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Ready Tv
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
@@ -837,11 +825,8 @@ https://vivo.solumedia.com:19360/tves/tves.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", TVN Panamá
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="Deportes", TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+https://mas.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=915f95feff51dc598d2589ea494c0f5ca6b95cc7-2f-1722250358-1722214358
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
