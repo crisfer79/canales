@@ -142,7 +142,7 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 5 Pueblo Alcorta
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="Local", Canal 5 Tandil
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
@@ -187,7 +187,7 @@ https://inliveserver.com:1936/12014/12014/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="Local", Canal 9 Norte Misionero
-https://panel.dattalive.com/8076/8076/playlist.m3u8
+https://panel.host-live.com:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 R o Cuarto
 https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
@@ -694,7 +694,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/.m3u8
 
 #EXTINF:-1 group-title="Local", San Luis +
-https://stream.radiosmundiales.com:19360/sanluismas/720p.m3u8
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1 group-title="Local", San Pedro Tv
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
@@ -740,9 +740,6 @@ https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/289_TDC_TV_Santa_Fe.png" group-title="Local", TDC Tv
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local", Teatrix Tv
-https://c7e81053aec026fdd8a6e491c07658e6.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/FastTeatrixProd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
 https://videohd.live:19360/8020/8020.m3u8
@@ -809,6 +806,9 @@ https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 
 #EXTINF:-1 group-title="Deportes", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas", TV Prime
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
