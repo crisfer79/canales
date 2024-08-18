@@ -319,7 +319,7 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 group-title="Deportes", Caracol Deportes
-https://qehpdag7xfsywm4c39tzub.cdnessential.net:8443/hls/3sm008ikzw5er1e.m3u8?s=PG0vQS_wyu5dFA6dGn-Jog&e=1723965284
+https://qehpdag7xfsywm4c39tzub.cdnessential.net:8443/hls/3sm008ikzw5er1e.m3u8?s=j1bIe2FH7q3Tw7cQ0k5zFQ&e=1724011463
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Caras Tv
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
@@ -388,7 +388,7 @@ https://panel.dattalive.com/8078/8078/chunklist_w458907901.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes", Directv Sports
-https://cars565.pricesaskeloadsc.com/global/dsports/index.m3u8?token=ae157fe0b2eec61964833cc7804570396d4cb19e-9e-1723978558-1723942558
+https://cbado.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=665a2de891c61e0d5a493036d904297858ea290c-4f-1724025055-1723989055
 
 #EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -417,9 +417,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", EPS Tv Canal 5
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Varios", EPT Sports
-https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 
@@ -433,10 +430,10 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes", Eurosport 1
-https://cos1.pricesaskeloadsc.com/eurosports1_es/tracks-v1a1/mono.m3u8?token=204c9b68a9b23c474ad7cd687a4d4b2dcfd9c395-5c-1723973212-1723937212
+https://cbado.pricesaskeloadsc.com/eurosports1_es/tracks-v1a1/mono.m3u8?token=c5bd64af0677f0b4506d1274cf3bd718d4685509-8d-1724024861-1723988861
 
 #EXTINF:-1 group-title="Deportes", Eurosport 2
-https://ca8s9.pricesaskeloadsc.com/eurosports2_es/tracks-v1a1/mono.m3u8?token=7cbc60c4cedcd000175255252408dddf84b9e8d0-04-1723977917-1723941917
+https://vals88.pricesaskeloadsc.com/eurosports2_es/tracks-v1a1/mono.m3u8?token=2eb87de7592e08d74cbee800b02ec349c733f637-0a-1724024743-1723988743
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -838,7 +835,7 @@ https://vivo.solumedia.com:19360/tves/tves.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 #EXTINF:-1 group-title="Deportes", TyC Sports
-https://cbado.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=3d408e3d7daab74624b6e1944fb847f2e1c9ff5f-10-1723977683-1723941683
+https://cale.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=fb3f4471c354734d26ecfe06c1077a537deb851d-55-1724025141-1723989141
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
