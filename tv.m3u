@@ -36,6 +36,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", AVC Monte Caseros
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 
+#EXTINF:-1 group-title="Deportes", AYM Sports
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", AZM Tv
 https://live.canalnueve.tv/index.m3u8
 
@@ -318,9 +321,6 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 group-title="Deportes", Caracol Deportes
-https://qehpdag7xfsywm4c39tzub.cdnessential.net:8443/hls/3sm008ikzw5er1e.m3u8?s=j1bIe2FH7q3Tw7cQ0k5zFQ&e=1724011463
-
 #EXTINF:-1 tvg-logo="" group-title="Local", Caras Tv
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
 
@@ -384,11 +384,11 @@ https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-san-rodeocuestadelvien
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Puerto Iguaz 
 https://panel.dattalive.com/8078/8078/chunklist_w458907901.m3u8
 
+#EXTINF:-1 group-title="Deportes", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", Directv Sports
-https://cbado.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=665a2de891c61e0d5a493036d904297858ea290c-4f-1724025055-1723989055
 
 #EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -428,12 +428,6 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", Eurosport 1
-https://cbado.pricesaskeloadsc.com/eurosports1_es/tracks-v1a1/mono.m3u8?token=c5bd64af0677f0b4506d1274cf3bd718d4685509-8d-1724024861-1723988861
-
-#EXTINF:-1 group-title="Deportes", Eurosport 2
-https://vals88.pricesaskeloadsc.com/eurosports2_es/tracks-v1a1/mono.m3u8?token=2eb87de7592e08d74cbee800b02ec349c733f637-0a-1724024743-1723988743
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -750,8 +744,8 @@ https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/289_TDC_TV_Santa_Fe.png" group-title="Local", TDC Tv
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
-https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 group-title="General", Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Telecanal
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
@@ -787,7 +781,10 @@ https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.unam.edu.ar/templates/yootheme/cache/COMUNICACIONES-04-608eff73.jpeg" group-title="Educativos", Televisión Universitaria de Misiones
-http://192.100.186.53:8090/hls/live.stream.m3u8
+http://192.100.186.53:8090/hls/live.stream.m3u8}
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
+https://videohd.live:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/293_Telpin_Canal_2.png" group-title="Local", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
@@ -822,9 +819,6 @@ https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", TVE Internacional
-http://210.210.155.37/uq2663/h/h158/index2.m3u8
-
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="Local", TVEO
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 
@@ -833,9 +827,6 @@ https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
-
-#EXTINF:-1 group-title="Deportes", TyC Sports
-https://cale.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=fb3f4471c354734d26ecfe06c1077a537deb851d-55-1724025141-1723989141
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -861,14 +852,8 @@ https://villamanterotv.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Vive Tv
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", Vivo Tv Uruguay
-https://stream.vivotv.uy/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="General", WAPA
 https://live.field59.com/wapa/ngrp:wapa1_all/.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", WAPA Deportes
-https://live.field59.com/wapa/ngrp:wapa2_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gesell.tur.ar/image/685x5d3da/26239603-1562823000462532-1644324590284977691-n.jpg" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
