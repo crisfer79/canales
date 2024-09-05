@@ -828,6 +828,9 @@ https://vivo.solumedia.com:19360/tves/tves.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TyC Sports
+https://dglvz29s.la10tv.com/tycsports/tracks-v1a1/mono.m3u8?remote=181.16.85.75&token=2d48a628dea5f93bd039faf28b1cc3d12341b73c-859cb34b8f12cb7862e9272bcf3b4a72-1725613111-1725577111
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
