@@ -126,6 +126,9 @@ https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 4 Balcarce
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 4 El Dorado
+https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/780_Canal_4_Esquel.jpg" group-title="Local", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
@@ -199,7 +202,7 @@ https://panel.host-live.com:19360/8076/8076.m3u8
 https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Local", Canal 9 Televida
-https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="General", Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -217,13 +220,10 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 https://tecnica.nuevomundotv.com.ar:446/hls/canal10_360p878kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Local", Canal 10 Río Negro
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/281_El_10_TV_Salta.png" group-title="Local", Canal 10 Salta
 https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Local", Canal 10 San Rafael
-https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo Senillosa.jpg" group-title="Local", Canal 10 Senillosa
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
@@ -295,7 +295,7 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus Mar a
-https://panel.dattalive.com/8138/8138/playlist.m3u8
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
@@ -502,7 +502,7 @@ https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 https://wowza.telpin.com.ar:1935/camara-rambla/smil:camara-rambla.smil/chunklist_w951919186_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="General", LIM Tv
-https://stream.kirachan.tech/memfs/9c9ca194-11ad-4b7a-9048-4ba9668806ce_output_0.m3u8
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
