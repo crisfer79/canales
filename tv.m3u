@@ -15,9 +15,6 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/249_5TV.png" group-title="Local", 5Tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
 #EXTINF:-1 group-title="Local", Agenda Necochense
 https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
 
@@ -29,9 +26,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 group-title="Local", Alterna Tv
-https://alternatv.ar/stream/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Aunar Tv
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
@@ -378,9 +372,6 @@ https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 group-title="Local", Diti Tv
-https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -432,9 +423,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Local", GEN Tv Digital
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 group-title="General", Grilla M3Ux
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Cámaras", Hemingway Cariló
 https://video.estadodelmar.com.ar/mobile/hemingway/index.m3u8
 
@@ -459,7 +447,7 @@ https://videohd.live:19360/8078/8078.m3u8
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="Local", Infomedia24
 https://stream.arcast.tv:8443/infomedia/infomedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="Local", Itel Chajar 
+#EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="Local", Itel Chajarí
 http://66.128.32.245/output/iteltv/track_0_512/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Junto al Campo Tv
@@ -495,13 +483,13 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ibe9iSi.png" group-title="Local", LTO Televisi n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ibe9iSi.png" group-title="Local", LTO Televisión
 https://ltocatamarca.github.io/ltotv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Mar de las Pampas
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Religiosos", Mar a Visi n
+#EXTINF:-1 tvg-logo="" group-title="Religiosos", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Noticias", Martí Noticias
@@ -513,7 +501,7 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/283_Metro_TV_Canal_12_Tucuman.png" group-title="Local", Metro Tv Canal 12
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6.jpg" group-title="General", Microvision
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6.jpg" group-title="General", Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="Local", Mirador
@@ -524,6 +512,9 @@ https://srv.freewaves.live/hls/miramar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Misiones Cuatro
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+
+#EXTINF:-1 group-title="General", MiTv
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
@@ -539,9 +530,6 @@ https://panel.dattalive.com/8250/8250/tsplaylist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Multivisión Digital
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", Multivisión Sports
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288525230818963460/F_KhZkxZ_400x400.jpg" group-title="Cámaras", Muelle Villa Gesell
 http://cammuelle.gesell.com.ar/playlist.m3u8
@@ -561,22 +549,22 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="Local", Net Tv
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (Av Norte)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquen (Av Norte)
 https://nqnmunicam.ddns.net/camnqn/avnorte_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (Parque)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquen (Parque)
 https://nqnmunicam.ddns.net/camnqn/parque_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (Monumento Cam 1)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquen (Monumento Cam 1)
 https://nqnmunicam.ddns.net/camnqn/monumento2_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (Monumento Cam 2)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquen (Monumento Cam 2)
 https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (R o)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquen (R o)
 https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuqu n (Plaza Banderas)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquen (Plaza Banderas)
 https://nqnmunicam.ddns.net/camnqn/plazabanderas_720p/chunklist_w1710504320.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", NG Federal
@@ -585,11 +573,8 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 group-title="Local", Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", Omán Sports Tv
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 group-title="Peliculas", Opinión Sur Cine
-https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
+https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
 
 #EXTINF:-1 group-title="Peliculas", Opinión Sur Series
 https://fl1004.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8
@@ -795,7 +780,7 @@ https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 #EXTINF:-1 group-title="Deportes", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas", Tv Prime
+#EXTINF:-1 group-title="Peliculas", Vibra Tv Network
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 
 #EXTINF:-1 group-title="General", Tv Salud
