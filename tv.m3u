@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Peliculas", +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 group-title="Peliculas", +Cine Classic
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas", +Cine Family
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
@@ -21,17 +18,8 @@ https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
 #EXTINF:-1 group-title="Cámaras", Alicante
 https://video4.estadodelmar.com.ar/mobile/ALICANTE/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", Alkass One
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
-
-#EXTINF:-1 group-title="Deportes", AntenaSport
-https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 group-title="Deportes", Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
@@ -45,17 +33,8 @@ https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 group-title="General", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 group-title="Deportes", Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Deportes", Bein Sports Xtra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", BEK Tv Sports West
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="General", Bloomberg Tv
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
@@ -349,28 +328,16 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", CRTv
 https://videolatam.com:3558/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Deportes", ČT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Puerto Iguaz 
 https://panel.host-live.com:19360/8078/8078.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Deportes",Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Deportes",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://elsellotv.com.ar/img/Logo500.png" group-title="Local", El SelloTv
+#EXTINF:-1 tvg-logo="https://elsellotv.com.ar/img/Logo500.png" group-title="Local", El Sello Tv
 https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", El Trece Tv
@@ -394,23 +361,14 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Cámaras", Faro Querandí V.Gesell
 https://video.estadodelmar.com.ar/mobile/faroquerandi/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", FL Sport
-https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
-
 #EXTINF:-1 group-title="General", FM Tv
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Deportes", Fox Deportes
-http://181.78.105.146:2000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Local", GEN Tv Digital
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Golden Edge
-http://181.78.105.146:2000/play/a08k/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Hemingway Cariló
 https://video.estadodelmar.com.ar/mobile/hemingway/index.m3u8
@@ -460,9 +418,6 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", M-Net Sport
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Mar de las Pampas
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
@@ -493,8 +448,8 @@ https://srv.freewaves.live/hls/miramar/playlist.m3u8
 #EXTINF:-1 group-title="General", MiTv
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="Peliculas", Moni Tv
+https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
@@ -549,15 +504,6 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Local", Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", Oman Sports Tv
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Opinión Sur Cine
-https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Opinión Sur Series
-https://fl1004.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg" group-title="Religiosos", Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1207425376_b1463840.m3u8
@@ -637,9 +583,6 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", RTV Sports
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02.smil/.m3u8
-
 #EXTINF:-1 group-title="Local", San Luis +
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
@@ -654,9 +597,6 @@ https://smcdn01.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3
 
 #EXTINF:-1 group-title="Cámaras", Santa Teresita
 https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
-
-#EXTINF:-1 group-title="Deportes", Sharjah Sports Tv
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi Tv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -679,15 +619,6 @@ https://stream.arcast.net:4443/villamaria/villamaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", Sport En France
-https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
-
-#EXTINF:-1 group-title="Deportes", Sports Connect
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Starz 1
-http://181.78.105.146:2000/play/a097/index.m3u8
-
 #EXTINF:-1 group-title="Cámaras", Sun Rider MDQ
 https://video2.estadodelmar.com.ar/mobile/SUNRIDER/index.m3u8
 
@@ -696,9 +627,6 @@ https://tvstream.t5satelital.blog/hls/t5satelital.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/289_TDC_TV_Santa_Fe.png" group-title="Local", TDC Tv
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-#EXTINF:-1 group-title="Deportes", TDM Sports Ch. 93
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Telecanal
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
@@ -772,14 +700,8 @@ https://d4bee8qaav6x0.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="Peliculas", TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Torre n del Monje
+#EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
-
-#EXTINF:-1 group-title="Deportes", TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Vibra Tv Network
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 
 #EXTINF:-1 group-title="General", Tv Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/chunklist_w699181688.m3u8
@@ -793,9 +715,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="Local", TVEO
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", TyC Sports
-http://181.78.105.146:2000/play/a095/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
@@ -807,9 +726,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Urbana Teve
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-
-#EXTINF:-1 group-title="Deportes", V Sport Vinter
-http://62.210.211.188:2095/play/a00q
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Musicales", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
