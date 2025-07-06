@@ -60,6 +60,9 @@ https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Musicales", Cadena Elite Tv
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Caleta Córdova
+https://s136.ipcamlive.com/streams/881kqbn59owmbwole/stream.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Camet Norte Sta. Clara
 https://video2.estadodelmar.com.ar/mobile/CAMETNORTE/index.m3u8
 
@@ -286,6 +289,9 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Ciudad Mágica Tv
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Club Náutico Km3
+https://s144.ipcamlive.com/streams/90vp37h0soc6pyhar/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
@@ -300,6 +306,12 @@ https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Costanera Centro
+https://s113.ipcamlive.com/streams/71fjnuqdc3gt76uyx/stream.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Costanera Centro 2
+https://s143.ipcamlive.com/streams/8fgi7vcsax9bylzt5/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
@@ -375,6 +387,9 @@ https://d1pn38aa7xeaye.cloudfront.net/ArgentinaCameras/ar-bue-lasbrusquitasmiram
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Lapacho Tv
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Las Leñas
+https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8
 
 #EXTINF:-1 group-title="Local", Latina Tv Mendoza
 https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
@@ -532,6 +547,9 @@ https://srv.freewaves.live/hls/balcon/playlist.m3u8
 #EXTINF:-1 group-title="General",Prensa Latina Tv
 https://eu1.servers10.com:8081/8192/index.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Puente de la Amistad
+https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Puerto Cardiel MDQ
 https://srv.freewaves.live/hls/cardiel/playlist.m3u8
 
@@ -582,6 +600,9 @@ https://video2.estadodelmar.com.ar/mobile/SUNRIDER/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Tandil
+https://tandil.gov.ar/camera/stream/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/289_TDC_TV_Santa_Fe.png" group-title="Local", TDC Tv
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
@@ -684,4 +705,3 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Zoom Tecnológico Plus
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/chunklist_w347523457.m3u8
-arios 
