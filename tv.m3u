@@ -15,6 +15,9 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 group-title="Local", Agenda Necochense
 https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
 
+#EXTINF:-1 group-title="Local", Albardón Tv
+https://vd01.streaminghd.net.ar:3814/stream/play.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Alicante
 https://video4.estadodelmar.com.ar/mobile/ALICANTE/index.m3u8
 
@@ -70,7 +73,7 @@ https://s136.ipcamlive.com/streams/881kqbn59owmbwole/stream.m3u8
 https://video2.estadodelmar.com.ar/mobile/CAMETNORTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="Local", Canal 2 Gualeguay
-https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
+https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/254_Canal_2_Mar_del_Plata.png" group-title="Local", Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
