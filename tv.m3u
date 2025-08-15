@@ -693,6 +693,9 @@ https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 group-title="General", TN23
 https://d4bee8qaav6x0.cloudfront.net/index.m3u8
 
+#EXTINF:-1 group-title="Deportes", TNT Sports
+https://d7.merichunidya.com:1686/hls/tntarg.m3u8?md5=_N4nGu2ZCYLmeRpAc3-Eaw&expires=1755293547
+
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 
