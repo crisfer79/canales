@@ -300,6 +300,9 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv 3 Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
+#EXTINF:-1 group-title="General", CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Ciudad Mágica Tv
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
@@ -692,9 +695,6 @@ https://videohd.live:19360/8008/8008.m3u8
 
 #EXTINF:-1 group-title="General", TN23
 https://d4bee8qaav6x0.cloudfront.net/index.m3u8
-
-#EXTINF:-1 group-title="Deportes", TNT Sports
-https://d7.merichunidya.com:1686/hls/tntarg.m3u8?md5=_N4nGu2ZCYLmeRpAc3-Eaw&expires=1755293547
 
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
