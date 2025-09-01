@@ -361,7 +361,7 @@ https://videolatam.com:3558/hybrid/play.m3u8
 https://panel.host-live.com:19360/8078/8078.m3u8
 
 #EXTINF:-1 group-title="Deportes", Directv Sports 2
-https://deportes.ksdjugfsddeports.com:9092/MTI5LjIyNC4yMTUuMTc1/17_.m3u8?token=gMA8eUjSb0cRvznjenUFXg&expires=1756612738
+https://kzqih.envivotv.live/dsports/tracks-v1a1/mono.m3u8?remote=129.224.215.175&token=9ec6f5dee19270a6e71d6c65d5a17be09a33fc8f-d17f0401f636723d9cd90976be4b1ce5-1756697925-1756687125
 
 #EXTINF:-1 tvg-logo="" group-title="Varios", Drone Tv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -785,9 +785,6 @@ https://videohd.live:19360/8094/8094.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gesell.tur.ar/image/685x5d3da/26239603-1562823000462532-1644324590284977691-n.jpg" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
-
-#EXTINF:-1 group-title="Deportes", World Billiars
-https://newidco-billiardstv-1-eu.rakuten.wurl.tv/1200.m3u
 
 #EXTINF:-1 group-title="General", Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
