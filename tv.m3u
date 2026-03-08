@@ -31,7 +31,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://video5.estadodelmar.com.ar/mobile/PINAMUELL/index.m3u8
 
 #EXTINF:-1 group-title="Deportes", Bein Sports Xtra
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR360p.m3u8
 
 #EXTINF:-1 group-title="General", Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -78,8 +78,7 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="Local", Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
-#EXTINF:-1 group-title="Local", Canal 2 Salta
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1 group-title="Local
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="Local", Canal 2 Tornquist
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
@@ -205,7 +204,7 @@ https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-12-telecanal-republica-dominicana-en-vivo.jpg" group-title="General", Canal 12 Rep. Dom.
-https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg" group-title="Local", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
@@ -261,9 +260,6 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 #EXTINF:-1 group-title="Local", Canal Cooperativo Freyre
 https://online.coopmorteros.coop/freyre/freyre.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus María
-https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
@@ -271,7 +267,7 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunk
 https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Local", Canal Provincial
-https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+https://cdn.trimi.com.ar/live/sm-live/STREAMING_PROV/sa_live_hls/STREAMING_PROV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
@@ -290,9 +286,6 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes", CDN Deportes
 http://200.125.170.122:8000/play/a03j/index.m3u8
-
-#EXTINF:-1 group-title="Deportes", CDR
-https://mediacp.nnw.cl:19360/cdr/cdr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv 3 Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
@@ -333,14 +326,11 @@ https://s118.ipcamlive.com/streams/76pagfgtisneyuunb/stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Costanera Centro 2
 https://s118.ipcamlive.com/streams/762g15arxyildjuvm/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Cámaras", Daprotis MDQ
 https://video5.estadodelmar.com.ar/mobile/ElBarco2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", CRTv
-https://videolatam.com:3558/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General", CRTv
+https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Canal 5
 https://panel.host-live.com:19360/8078/8078.m3u8
@@ -359,9 +349,6 @@ https://video5.estadodelmar.com.ar/mobile/Nauti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://elsellotv.com.ar/img/Logo500.png" group-title="Local", El Sello Tv
 https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local", El Trece Tv
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 group-title="General", Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
@@ -418,7 +405,7 @@ https://videohd.live:19360/8078/8078.m3u8
 https://video2.estadodelmar.com.ar/mobile/Indo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="Local", Itel Chajarí
-http://66.128.32.245/output/iteltv/track_0_512/playlist.m3u8
+https://proxystream.iteltv.com.ar/output/iteltv/track_0_3700/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Kanal D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -453,9 +440,6 @@ https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8
 #EXTINF:-1 group-title="Cámaras", Las Toninas
 https://video5.estadodelmar.com.ar/mobile/toninas/index.m3u8
 
-#EXTINF:-1 group-title="Local", Latina Tv
-https://stmvideo6.livecastv.com/latina/latina/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="General", LIM Tv
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
@@ -476,9 +460,6 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Médanos Viento Norte Miramar
 https://video.estadodelmar.com.ar/mobile/Honores/index.m3u8
-
-#EXTINF:-1 group-title="Peliculas", Mega Cine Tv
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/283_Metro_TV_Canal_12_Tucuman.png" group-title="Local", Metro Tv Canal 12
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -695,6 +676,9 @@ http://192.100.186.53:8090/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Tele Posadas
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+
+#EXTINF:-1 group-title="General", Telemundo
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_2.m3u8
 
 #EXTINF:-1 group-title="Noticias", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
