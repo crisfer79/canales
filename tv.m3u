@@ -497,6 +497,9 @@ https://video2.estadodelmar.com.ar/mobile/museomar/index.m3u8
 #EXTINF:-1 group-title="General", MyTime Movie Network Tv
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Deportes", NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Necochea
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
@@ -736,6 +739,9 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Ver Tv
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+#EXTINF:-1 group-title="General", Visión Tv
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 group-title="Local", Vive Tv
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
