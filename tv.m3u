@@ -311,6 +311,9 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 group-title="Deportes", CnAr Deportes
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 
+#EXTINF:-1 group-title="Noticias", CNN en Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Local", Correa Radiovisión
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 
@@ -710,6 +713,9 @@ https://video5.estadodelmar.com.ar/mobile/TORREON/index.m3u8
 #EXTINF:-1 group-title="General", Tv Azteca Guate
 https://ch1-tva.duin.dev/hls/0/stream.m3u8
 
+#EXTINF:-1 group-title="General", Teleclásica
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
@@ -757,6 +763,9 @@ https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", WTv
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 group-title="Local", X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 group-title="Peliculas", Xtrema Acción
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
