@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Local", Eventos
-https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=98.97.134.124&token=2fb0be6e5ba53ed9d12d086e827ed4463ce4bc58-35-1776675331-1776621331
+https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1776899884&wowzatokenstarttime=0&wowzatokenhash=kUWYRpoVRGKa0NjLXA0_tPCkyMQnx6sHf8h7CLyoRzs=
 
 #EXTINF:-1 tvg-logo="" group-title="Noticias", 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
