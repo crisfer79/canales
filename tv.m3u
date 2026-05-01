@@ -116,6 +116,9 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
 
+#EXTINF:-1 group-title="Local", Canal 4 Pergamino
+https://euc12.playlist.ttvnw.net/v1/playlist/CtsE5rwWNtUdmDbR572KllJMm3eMBAycsm9XufexYWi1lovS9gsqSgOvzf7qR_m7qlmw8RFnQy0a9cwut-oZIBRzELVpLqMIFV5fQTGpMXV2nAHKi5pkgDddXfEhqKV5SUnrOauzmFVIWQQsZtujcjpA0kXG1AdenzR0fBp8MNtBC_uY9iK-rH1p0dUo4Eq4Oyb-bDIUgEfpKe8wSmlWbnvFUgskfEat5zk3_RXQpkKJPYACM4ss0oP9goFGmKW5iksJLmjI_0NBBkvblJX121o80zzgjiSJjVrJ_3OlShjBOBhOAUSiTJ-_TF5iuoQ_8nNeEAUTX8dIUSBPWrHRFb_Nza6f2Qz4kuXbMVHdz-1fi59vo_h939E2_5DFf8IXTqTTLa2lL4_q__-_rC1JkeIclQCAcVLsQ0B4vTqPJ0kGHUPSqxW1y1V0EN6YwiEL2Jdo0iWXIv2OLQDVUyd-PVS-3jmTFd7IWSDGnIOAcNuphy7_USLi_wCGCfK2DAbPIUgoWtIBl3fncsMr63hrqRL7fja3V67HhjE80k6ZEmgVFWUPWW-JcFKbC0AhW6FN3l2ou95ftckhJoAvFz_W8a4gGQlLktkQydpJm12UraIV8GOIlZsdZoECj46QpZBrIvwxuvdsym88pZ8YEkLkcffpsydEdXfum4Ts38QGbL_fqZq4Hv_7thCnS3mwEGD4o1PvDGR7K64WFAWg0_4Fbu-tLcBX7NPv1uFNB76WQ59icHNSQeWqSxYmyOoffLlOx7H7AI2-KlseT__XQYjF4dBSUkqAdur7g7NqBtB4GgyIYrvcAKyCi5aztAogASoJZXUtd2VzdC0yMIMP.m3u8
+
 #EXTINF:-1 group-title="Local", Canal 4 Regional
 http://190.13.217.232/tmp_hls/stream/index.m3u8
 
@@ -337,6 +340,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 #EXTINF:-1 group-title="Cámaras", El Chiringo Sta. Clara
 https://video.estadodelmar.com.ar/mobile/Santaclar2/index.m3u
+
+#EXTINF:-1 group-title="Local", El Duende Canal 4
+https://videostream.shockmedia.com.ar:19360/canal4tv/canal4tv.m3u8
 
 #EXTINF:-1 group-title="Cámaras", El Náutico Miramar
 https://video5.estadodelmar.com.ar/mobile/Nauti/index.m3u8
@@ -601,6 +607,9 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Santa Teresita
 https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
+
+#EXTINF:-1 group-title="Deportes", Showsport
+https://euc11.playlist.ttvnw.net/v1/playlist/CtUEk9fx2pIaEgFlmrANbt5TP0mDes1vokb8wQyL4pu8FqFK0f2j8ZK_WL4ES5XEwvi_1TPosGLhfJzVJdE4aUfqE7sXbyAR5voYgWPOWNciR_xQV563R5TukHsyRy3QYsmciJ5_8Z3yzWnPOrBN1iFqrNX2cxaU7CFvecl_YBKPaCkmdkSzOnnDScPx1v8MiIuqUF8i7X9iAgVxN-qKTOpjB9JuG_-39P9kJRlryFJikFH8nAHKTCFCnprtSXObipukF-hedqxmez0-qwYyYuGcXEWluYwqCLPrI75vZKeSNo5mCqWuR_1vUix4Sy2bomzruM2YuNxGlEbJI9MupKpdu4EvFiWOwZHh3cvjOIlBIdywOerSp8EFJTyKJBVZ0v2V4roSrO9fgfDk4-t7sHrQwYUrhUsmAx-NXz-WnGDA_MqTPHfOlPqpH7FnVAynKtlQ1j-aS4D-Er4drTPeRJ7bUzlMHUaeH6BLM022FdzADeyjwiQQDJyvaDuyZCUwS7Gderf60TzOKc-PYV4RhlLfXytvNOoOoIFXhmVXrCZZSUvXC46pLGnL6cIVtNqCNUfe7yhLd24yCSRIPfBBxTWuHkseL2OfvanhKuFKXTl8L6P5y0LJPU8uI1myQ0eNXgs4wsDvvansQ2F18GvrZCOhHSClx8PqcgS2FJAjTuS_4Y4EviwIcx9IuYzVmqqwShgKy_5nY33gnzJxZTTxXwd_ZdlVf_-vULecJC6orBjq0_Jpr3_ZoW0-ZynqBz_kSXR1v5YTossWMAyot6R6ygOPN72_17HxGgwnmTdZZVqrSU-I16EgASoJZXUtd2VzdC0yMIMP.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi Tv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
