@@ -116,9 +116,6 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
 
-#EXTINF:-1 group-title="Local", Canal 4 Pergamino
-https://euc12.playlist.ttvnw.net/v1/playlist/CtsE5rwWNtUdmDbR572KllJMm3eMBAycsm9XufexYWi1lovS9gsqSgOvzf7qR_m7qlmw8RFnQy0a9cwut-oZIBRzELVpLqMIFV5fQTGpMXV2nAHKi5pkgDddXfEhqKV5SUnrOauzmFVIWQQsZtujcjpA0kXG1AdenzR0fBp8MNtBC_uY9iK-rH1p0dUo4Eq4Oyb-bDIUgEfpKe8wSmlWbnvFUgskfEat5zk3_RXQpkKJPYACM4ss0oP9goFGmKW5iksJLmjI_0NBBkvblJX121o80zzgjiSJjVrJ_3OlShjBOBhOAUSiTJ-_TF5iuoQ_8nNeEAUTX8dIUSBPWrHRFb_Nza6f2Qz4kuXbMVHdz-1fi59vo_h939E2_5DFf8IXTqTTLa2lL4_q__-_rC1JkeIclQCAcVLsQ0B4vTqPJ0kGHUPSqxW1y1V0EN6YwiEL2Jdo0iWXIv2OLQDVUyd-PVS-3jmTFd7IWSDGnIOAcNuphy7_USLi_wCGCfK2DAbPIUgoWtIBl3fncsMr63hrqRL7fja3V67HhjE80k6ZEmgVFWUPWW-JcFKbC0AhW6FN3l2ou95ftckhJoAvFz_W8a4gGQlLktkQydpJm12UraIV8GOIlZsdZoECj46QpZBrIvwxuvdsym88pZ8YEkLkcffpsydEdXfum4Ts38QGbL_fqZq4Hv_7thCnS3mwEGD4o1PvDGR7K64WFAWg0_4Fbu-tLcBX7NPv1uFNB76WQ59icHNSQeWqSxYmyOoffLlOx7H7AI2-KlseT__XQYjF4dBSUkqAdur7g7NqBtB4GgyIYrvcAKyCi5aztAogASoJZXUtd2VzdC0yMIMP.m3u8
-
 #EXTINF:-1 group-title="Local", Canal 4 Regional
 http://190.13.217.232/tmp_hls/stream/index.m3u8
 
@@ -692,8 +689,14 @@ https://ch1-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 group-title="General", Teleclásica
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
+#EXTINF:-1 group-title="General", Telefuturo
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8
+
 #EXTINF:-1 group-title="Local", Tele Posadas
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+
+#EXTINF:-1 group-title="General", Teletica
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -715,6 +718,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 group-title="Local", UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+#EXTINF:-1 group-title="General", Unitel
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Musicales", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
