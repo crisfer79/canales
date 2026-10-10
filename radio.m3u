@@ -1,67 +1,45 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Nacionales", Dorado FM
 https://sslstream.online:7269/stream
-
 #EXTINF:-1 group-title="Nacionales", Yo Baile 80/90
 https://stm.livecastradio.com:7186/;
-
 #EXTINF:-1 group-title="Internacionales", Los 40 Classic Almería
 https://25553.live.streamtheworld.com/LOS40_CLASSIC_SC
-
 #EXTINF:-1 group-title="Internacionales", E-Music 97.9
 https://dmq9flwdx65p5.cloudfront.net/ts:abr.m3u8
-
 #EXTINF:-1 group-title="Internacionales", Vox FM
 https://ice42.securenetsystems.net/VOXFM
-
 #EXTINF:-1 group-title="Internacionales", Energy FM Rusia
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
-
 #EXTINF:-1 group-title="Nacionales", Neo FM Oberá
 https://stream.valenzuelasistemas.net.ar:8443/neofm
-
 #EXTINF:-1 group-title="Nacionales", La 97 MDQ
 https://streaming01.shockmedia.com.ar:10586/;
-
 #EXTINF:-1 group-title="Nacionales", OM Radio
 https://stream.radioservice.org:7001/stream
-
 #EXTINF:-1 group-title="Nacionales", Estudio Playa
 https://radios.solumedia.com:8998/stream
-
 #EXTINF:-1 group-title="Nacionales", Planet Music MDQ
 https://strcdn.klm99.com:10991/planetmdp
-
 #EXTINF:-1 group-title="Nacionales", Planet Music Pinamar
 https://strcdn.klm99.com:10984/planetpinamar
-
 #EXTINF:-1 group-title="Nacionales", Planet Music V. Gesell
 https://strcdn.klm99.com:10986/planetvillagesell
-
 #EXTINF:-1 group-title="Nacionales", Acqua MDQ
 https://strcdn.klm99.com:10990/acquamdp
-
 #EXTINF:-1 group-title="Nacionales", Acqua Pinamar
 https://strcdn.klm99.com:10983/acquapinamar
-
 #EXTINF:-1 group-title="Nacionales", Radio Empedrado
 https://ssl.radiosnethosting.com/index.php?port=9998/;stream.mp3
-
 #EXTINF:-1 group-title="Nacionales", Radio Cantilo
 https://01.solumedia.com.ar:7231/stream
-
 #EXTINF:-1 group-title="Nacionales", Undinamo
 https://cdn.instream.audio:9339/stream
-
 #EXTINF:-1 group-title="Nacionales", Wonder 80
 https://80.streeemer.com/listen/80s/radio.aac
-
 #EXTINF:-1 group-title="Nacionales", Vinilo Mix
 https://audiopanel.com.ar:8010/radio.aac
-
 #EXTINF:-1 group-title="Nacionales", Radio Chamamé
 https://stream.zenolive.com/84y7b87p4gruv
-
 #EXTINF:-1 group-title="Europa", Energy Hits 90´
 https://frontend.streamonkey.net/energy-90erhits?aggregator=energyde
