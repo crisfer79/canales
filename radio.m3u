@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Nacionales", Dorado FM
+#EXTINF:-1 group-title="Nacionales",Dorado FM
 https://sslstream.online:7269/stream
-#EXTINF:-1 group-title="Nacionales", Yo Baile 80/90
+#EXTINF:-1 group-title="Nacionales",Yo Baile 80/90
 https://stm.livecastradio.com:7186/;
-#EXTINF:-1 group-title="Internacionales", Los 40 Classic Almería
+#EXTINF:-1 group-title="Internacionales",Los 40 Classic Almería
 https://25553.live.streamtheworld.com/LOS40_CLASSIC_SC
 #EXTINF:-1 group-title="Internacionales", E-Music 97.9
 https://dmq9flwdx65p5.cloudfront.net/ts:abr.m3u8
