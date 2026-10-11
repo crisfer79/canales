@@ -1,16 +1,24 @@
 #EXTM3U
-#EXTINF:-1,Dorado FM
-https://sslstream.online:7269/stream
 #EXTINF:-1,Yobaile8090
 https://stm.livecastradio.com:7186/;
 #EXTINF:-1,Los40Classic
 https://25553.live.streamtheworld.com/LOS40_CLASSIC_SC
 #EXTINF:-1,E-Music
 https://dmq9flwdx65p5.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1,EnergyHits90
+https://frontend.streamonkey.net/energy-90erhits?aggregator=energyde
+#EXTINF:-1,Undinamo
+https://cdn.instream.audio:9339/stream
+#EXTINF:-1,Wonder80
+https://80.streeemer.com/listen/80s/radio.aac
+#EXTINF:-1,ViniloMix
+https://audiopanel.com.ar:8010/radio.aac
 #EXTINF:-1,VoxFM
 https://ice42.securenetsystems.net/VOXFM
 #EXTINF:-1.EnergyFMRusia
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
+#EXTINF:-1,Europa2
+https://stream.bauermedia.sk/europa2-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=europa_web_desktop
 #EXTINF:-1,NeoFM
 https://stream.valenzuelasistemas.net.ar:8443/neofm
 #EXTINF:-1,La97
@@ -33,13 +41,7 @@ https://strcdn.klm99.com:10983/acquapinamar
 https://ssl.radiosnethosting.com/index.php?port=9998/;stream.mp3
 #EXTINF:-1,RadioCantilo
 https://01.solumedia.com.ar:7231/stream
-#EXTINF:-1,Undinamo
-https://cdn.instream.audio:9339/stream
-#EXTINF:-1,Wonder80
-https://80.streeemer.com/listen/80s/radio.aac
-#EXTINF:-1,ViniloMix
-https://audiopanel.com.ar:8010/radio.aac
 #EXTINF:-1,RadioChamame
 https://stream.zenolive.com/84y7b87p4gruv
-#EXTINF:-1,EnergyHits90
-https://frontend.streamonkey.net/energy-90erhits?aggregator=energyde
+#EXTINF:-1,Dorado FM
+https://sslstream.online:7269/stream
