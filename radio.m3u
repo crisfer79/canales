@@ -41,3 +41,11 @@ https://audiopanel.com.ar:8010/radio.aac
 https://stream.zenolive.com/84y7b87p4gruv
 #EXTINF:-1,EnergyHits90
 https://frontend.streamonkey.net/energy-90erhits?aggregator=energyde
+#EXTINF:-1,Hearts90
+https://media-ssl.musicradio.com/Heart90s
+#EXTINF:-1,Radio Só Flashback
+https://stream3.svrdedicado.org/8012/stream
+#EXTINF:-1,El Destape Radio
+https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8
+#EXTINF:-1,Radio 2 107.1
+https://cdn.instream.audio/:9056/stream?in_device_id=wp-52e45282-73d8-487f-afde-8310132fb7b1
