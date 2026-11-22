@@ -141,6 +141,9 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="Local", Canal 5 Tandil
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
+#EXTINF:-1 group-title="Local", Canal 5 Tigre
+https://videostream.shockmedia.com.ar/hls/cincotv/cincotv.m3u8
+
 #EXTINF:-1 group-title="Local", Canal 6 La Quiaca
 https://stream.arcast.com.ar/c6laquiaca/ngrp:c6laquiaca_all/playlist.m3u8
 
@@ -217,7 +220,7 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="Local", Canal 41 Bayres
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+https://broken-resonance-e830.crichu79.workers.dev/bayrestv
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/232_Canal_50_Morteros.png" group-title="Local", Canal 50 Morteros
 https://online.coopmorteros.coop/canal50/vivo.m3u8
@@ -604,7 +607,7 @@ https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
 https://video.estadodelmar.com.ar/mobile/santaCl2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religiosos", Santa María
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+https://streaming.telered.com.ar/santa-maria/streaming/mystreamMed.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Santa Teresita
 https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
